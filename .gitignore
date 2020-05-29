@@ -16,3 +16,6 @@ build
 *.skip
 android/.project
 android/.settings/org.eclipse.buildship.core.prefs
+android/lib/.classpath
+android/lib/.project
+android/lib/.settings/org.eclipse.buildship.core.prefs
