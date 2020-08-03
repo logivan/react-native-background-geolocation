@@ -1,6 +1,6 @@
 {
   "name": "@logivan/react-native-background-geolocation",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "optimized background location tracking",
   "main": "./index.js",
   "types": "./index.d.ts",
